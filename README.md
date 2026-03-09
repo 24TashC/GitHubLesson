@@ -18,13 +18,12 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 The dataset includes the following morphological measurements:
 
-| Variable | Description |
+| Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: What does this variable measure? Include units] |
-| `bill_depth_mm` | [TODO: What does this variable measure? Include units] |
-| `flipper_length_mm` | [TODO: What does this variable measure? Include units] |
-| `body_mass_g` | [TODO: What does this variable measure? Include units] |
-| `sex` | [TODO: What does this variable record?] |
+| `bill_length_mm` | [TODO: Include range] |
+| `bill_depth_mm` | [TODO: Include range] |
+| `flipper_length_mm` | [TODO: Include range] |
+| `body_mass_g` | [TODO: Include range] |
 
 ## What the Analysis Does
 
@@ -72,3 +71,4 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 ## Authors
 
 [TODO: Add your name here! This is a great first commit.]
+
