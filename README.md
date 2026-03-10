@@ -54,5 +54,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 ## Authors
 
 EAT THE EGG
+Natasha Chambers is the author 
 
 
